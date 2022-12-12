@@ -1,0 +1,41 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+    color: white;
+}
+
+.frames {
+    background-color: lightcoral;
+    color: white;
+}
+
+.paint {
+    background-color: skyblue;
+    color: white;
+}
+
+strong {
+    color: blue;
+}
+
+h1 {
+    background-image: url("./resources/images/pattern.jpeg");
+    line-height: 1.5;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align:center;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: rgb(241, 228, 234);
+}
